@@ -46,7 +46,7 @@
     What type of modules does your project use? … 
      JavaScript modules (import/export)
      CommonJS (require/exports)
-   ❯ None of these
+    ❯ None of these
    
    سوف أقوم باختيار الخيار الأخير وبعدها اضغط على Enter
 
@@ -58,7 +58,7 @@
     Which framework does your project use? … 
      React
      Vue.js
-   ❯ None of these
+    ❯ None of these
    
 #### السؤال الرابع :
 هل المشروع يستخدم TypeScript؟
@@ -76,7 +76,7 @@
     ✔ Browser
     ✔ Node
     
-    نقدر نختار جميع الخيارات بالضغط على space إذا تغيرت علامة الصح إلى اللون الأخضر، يعني تم اختيار الخيار , وبعدها اضغط على Enter
+نقدر نختار جميع الخيارات بالضغط على space إذا تغيرت علامة الصح إلى اللون الأخضر، يعني تم اختيار الخيار , وبعدها اضغط على Enter
 
 ##### السؤال السادس:
 سوف يسأل عن style guide المراد استخدامها في المشروع؟
@@ -155,7 +155,7 @@
     console.log(myName);
     console.log(list);
     
-    <img width="960" alt="2023-03-19 (3)" src="https://user-images.githubusercontent.com/107775566/226179153-cc75bb67-cb89-40ad-9e88-c1058cc0b9e1.png">
+<img width="960" alt="2023-03-19 (3)" src="https://user-images.githubusercontent.com/107775566/226179153-cc75bb67-cb89-40ad-9e88-c1058cc0b9e1.png">
 فهذا الخطأ هو اللي اضناه بالخطوه الثانية واللي سببه ان لازم نهاية كل امر يكون فيه فاصله منقوطة 
 وبعد اظافة الفواصل المنقوطة نهاية جميع الاوامر لن يظهر اي اخطاء :) 
 <img width="960" alt="2023-03-19 (8)" src="https://user-images.githubusercontent.com/107775566/226179639-564f6b22-1916-4584-9f4a-8ec9c29f3d87.png">
